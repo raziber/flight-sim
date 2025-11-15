@@ -1,0 +1,20 @@
+# Python
+## Virtual environments
+.venv/
+
+## Python cache
+__pycache__/
+*.pyc
+
+## PyQt / pyqtgraph temporary files
+*.qmlc
+*.qrc
+*.pyqti
+
+# PlatformIO
+.pio
+.vscode/
+
+# General
+.DS_Store
+*.log
